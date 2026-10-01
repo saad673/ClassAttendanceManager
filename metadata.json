@@ -1,0 +1,6 @@
+{
+  "name": "Class Attendance Manager",
+  "description": "Smart offline class attendance manager to organize courses, manage students, take fast roll calls, track attendance records, and export reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
